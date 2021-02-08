@@ -1,0 +1,6 @@
+framework module Pods_GestionDeContactos {
+  umbrella header "Pods-GestionDeContactos-umbrella.h"
+
+  export *
+  module * { export * }
+}
